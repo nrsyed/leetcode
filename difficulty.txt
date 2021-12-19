@@ -2,6 +2,8 @@
 2 medium
 3 medium
 9 easy
+11 medium
+42 hard
 100 easy
 104 easy
 226 easy
