@@ -1,5 +1,6 @@
 1 easy
 2 medium
+3 medium
 9 easy
 100 easy
 104 easy
