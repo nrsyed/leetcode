@@ -33,4 +33,7 @@ class Solution:
                     longest_right_idx = r - 1
                     max_len = r - l - 1
                     
+        # TODO: break loop in the second half of the string if the largest
+        # substring is bigger than the largest palindrome that could be
+        # formed from the current position.
         return s[longest_left_idx:longest_right_idx + 1]
