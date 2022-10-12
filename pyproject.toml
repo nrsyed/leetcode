@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "leetcode"
+version = "0.1.0"
+description = ""
+authors = ["Najam Syed <najam.r.syed@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.group.dev.dependencies]
+beautifulsoup4 = "^4.11.1"
+selenium = "^4.5.0"
+requests = "^2.28.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
